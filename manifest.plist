@@ -33,15 +33,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>project.merlini.familybit</string>
+				<string>project.merlini.gentoken</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>2.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
 				<string></string>
 				<key>title</key>
-				<string>Familybit</string>
+				<string>Gentoken</string>
 			</dict>
 		</dict>
 	</array>
